@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey guys!
-- 🔭 I’m an graduate in University of Pittsburgh.
+- 🔭 I’m a master student in University of Pittsburgh.
 - 🌱 I’m currently majoring in Information Science.
 - 🤔 I’m looking for help with English Learning.
 - 📫 How to reach me: sweetchris1196@gmail.com, chp252@pitt.edu
