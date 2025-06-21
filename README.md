@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey guys!
+### Hi there 👋
 - 🔭 I’m a master student in University of Pittsburgh.
 - 🌱 I’m currently majoring in Information Science.
-- 🤔 I’m looking for help with English Learning.
-- 📫 How to reach me: sweetchris1196@gmail.com, chp252@pitt.edu
+- 🤔 My interest focus on ML in RecSys and LLM techniques.
+- 📫 How to reach me: chp252@pitt.edu, panchengxi@baidu.com, p3051329030@gmail.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweet196&theme=calm)
