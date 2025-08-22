@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m a master student in University of Pittsburgh.
 - 🌱 I’m currently majoring in Information Science.
 - 🤔 My interest focus on ML in RecSys and LLM techniques.
-- 📫 How to reach me: chp252@pitt.edu, panchengxi@baidu.com, p3051329030@gmail.com
+- 📫 How to reach me: chengxipann@gmail.com, chp252@pitt.edu, panchengxi@baidu.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweet196&theme=calm)
